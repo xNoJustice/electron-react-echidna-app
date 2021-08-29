@@ -1,4 +1,4 @@
-<img src="" alt="echidna" />
+<img src="https://github.com/xNoJustice/electron-react-echidna-app/blob/3734df19d3cb9a663aaae6c4ed9176233370c6f5/echidna.gif" alt="echidna" />
 
 ## Install
 
