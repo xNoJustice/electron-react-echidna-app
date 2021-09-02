@@ -64,8 +64,11 @@
     },
     "win": {
       "target": [
-        "nsis"
+        "portable"
       ]
+    },
+    "portable": {
+      "artifactName": "ElectronEchidna.exe"
     },
     "linux": {
       "target": [
